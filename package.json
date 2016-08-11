@@ -1,0 +1,21 @@
+{
+  "name": "gulp-typescript-module",
+  "version": "1.0.0",
+  "description": "Diff between typescript compiler and gulp-typescript.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^4.3.4",
+    "gulp-typescript": "^2.13.6",
+    "gulp-uglify": "^1.5.3",
+    "typescript": "^1.8.10"
+  },
+  "dependencies": {
+    "spa-sample-component": "^1.0.2"
+  }
+}

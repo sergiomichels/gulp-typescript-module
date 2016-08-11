@@ -1,0 +1,8 @@
+node_modules/.bin
+node_modules/browserify
+node_modules/gulp
+node_modules/gulp-tslint
+node_modules/gulp-typescript
+node_modules/gulp-uglify
+node_modules/tslint
+node_modules/typescript
